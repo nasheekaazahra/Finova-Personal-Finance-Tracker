@@ -7,7 +7,7 @@ A modern, elegant, and responsive personal finance tracker designed to help user
 
 <br>
 
-[🌐 Live Demo](#)
+[🌐 Live Demo](https://nasheekaazahra.github.io/Finova-Personal-Finance-Tracker/)
 •
 
 <br>
